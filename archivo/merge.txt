@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Yonnattanth Fernando Pedraza Obando
 41 años
 
 Con esta materia aspiro a adquirir los conocimientos necesarios para convertirme en un programador.
 Deseo trabajar prontamente en el área de la criptografía y la imteligencia artificial. 
+=======
+Una carpeta vacía no la permite ver
+>>>>>>> 6e86aeef7ca0f59680ead070d10bccaf2abe6aed
